@@ -1,0 +1,129 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.banner-container {
+    height: 850px;
+    width: auto;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 190px 30px 30px 150px;
+    display: flex;
+}
+
+.flower-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 50%;
+}
+
+.btn {
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    gap: 10px;
+}
+
+.banner-img {
+    width: 530px;
+    height: 600px;
+    margin-top: 50px;
+    margin-right: 240px;
+    /* margin-left: 100px; */
+}
+
+.extra-marks {
+    padding: 50px;
+
+}
+
+.section-info {
+    align-items: center;
+    text-align: center;
+
+}
+
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 10px;
+    font-weight: 100;
+    line-height: 30px;
+    align-items: center;
+
+}
+
+.three-flowers {
+    display: flex;
+    /* align-items: center; */
+    gap: 15px;
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+}
+
+.flowers {
+    background: #FFF;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    /* align-items: center; */
+    padding: 0%;
+    margin-bottom: 0;
+    align-items: center;
+    m
+}
+
+.section-img1 {
+    text-align: center;
+    padding: 20px;
+
+}
+
+.flowers-title {
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.section-img2 {
+    text-align: center;
+    padding: 5px;
+}
+
+.services {
+    display: flex;
+    /* justify-content: space-around; */
+    gap: 100px;
+    /* align-items: center; */
+    text-align: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 40px;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 200px;
+}
+
+.services-img {
+    align-items: center;
+    margin-top: 35px;
+}
+
+.services-img-des {
+    margin-top: 10px;
+}
+
+.section-offer {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    align-items: center;
+
+}
+
+.offer {
+    margin-left: 30px;
+}
