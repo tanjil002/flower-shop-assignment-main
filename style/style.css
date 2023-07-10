@@ -10,6 +10,10 @@
     background: rgba(229, 84, 115, 0.10);
     padding: 190px 30px 30px 150px;
     display: flex;
+    
+}
+.banner-item{
+    margin-left: 20px;
 }
 
 .flower-description {
@@ -18,7 +22,7 @@
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    width: 50%;
+    width: 85%;
 }
 
 .btn {
@@ -121,9 +125,19 @@
     background: rgba(229, 84, 115, 0.05);
     display: flex;
     align-items: center;
+    padding-left: 5%;
+   
 
+
+}
+.text-primary{
+    color: #E55473;
 }
 
 .offer {
-    margin-left: 30px;
+    margin-left: 40px;
+    margin-left: 20%;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
 }
