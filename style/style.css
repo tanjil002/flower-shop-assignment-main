@@ -100,7 +100,8 @@
     text-align: center;
     margin-left: 15%;
 }
-.flowers-title1{
+
+.flowers-title1 {
     padding-top: 100px;
     text-decoration: underline;
 }
@@ -154,7 +155,8 @@
 .services-img-des {
     margin-top: 10px;
 }
-.service3{
+
+.service3 {
     padding-left: 20px;
 }
 
@@ -238,7 +240,7 @@
     border-radius: 8px;
     background: url('../Flower\ Asset/background-image'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
     padding: 0px 20px;
-    
+
 }
 
 .input-details {
