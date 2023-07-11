@@ -193,6 +193,11 @@
     display: flex;
     justify-content: space-around;
     margin-bottom: 0;
+    
+    
+
+    /* padding-left: 240px; */
+    /* padding-right: 240px; */
     /* margin: 50px 50px; */
     /* padding: 80px 80px; */
 
@@ -238,8 +243,10 @@
     width: 1000px;
     margin-left: 260px;
     border-radius: 8px;
-    background: url('../Flower\ Asset/background-image'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
-    padding: 0px 20px;
+    background-image: url('../style/input.png');
+    background-repeat: no-repeat;
+    
+    background-size: contain, cover;
 
 }
 
