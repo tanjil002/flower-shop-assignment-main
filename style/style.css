@@ -10,9 +10,10 @@
     background: rgba(229, 84, 115, 0.10);
     padding: 190px 30px 30px 150px;
     display: flex;
-    
+
 }
-.banner-item{
+
+.banner-item {
     margin-left: 20px;
 }
 
@@ -23,6 +24,17 @@
     font-weight: 400;
     line-height: 30px;
     width: 85%;
+}
+
+.title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 5px;
+
 }
 
 .btn {
@@ -58,7 +70,6 @@
     font-weight: 100;
     line-height: 30px;
     align-items: center;
-
 }
 
 .three-flowers {
@@ -78,7 +89,7 @@
     padding: 0%;
     margin-bottom: 0;
     align-items: center;
-    m
+
 }
 
 .section-img1 {
@@ -126,11 +137,10 @@
     display: flex;
     align-items: center;
     padding-left: 5%;
-   
-
 
 }
-.text-primary{
+
+.text-primary {
     color: #E55473;
 }
 
@@ -141,8 +151,63 @@
     align-items: center;
     text-align: center;
 }
-.social-side{
-    margin-top: 5%;
+
+.social-side {
+    margin-top: 2%;
     text-align: center;
     gap: 2px;
+    padding: 90px 90px;
+    background: #FFF;
+}
+
+.four-flowers {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 0;
+    /* margin: 50px 50px; */
+    /* padding: 80px 80px; */
+
+}
+
+.social-img1 {
+    background: url('../Flower\ Asset/.social-img1'), lightgray 50% / cover no-repeat;
+    width: 342px;
+    height: 396px;
+}
+
+.social-img2 {
+    background: url(../Flower\ Asset/.social-img2), lightgray 50% / cover no-repeat;
+    width: 342px;
+    height: 396px;
+}
+
+.social-img3 {
+    background: url(../Flower\ Asset/.social-img3), lightgray 50% / cover no-repeat;
+    width: 342px;
+    height: 396px;
+}
+
+.social-img4 {
+    background: url(../Flower\ Asset/.social-img4), lightgray -11.535px 0px / 173.728% 100% no-repeat;
+    width: 342px;
+    height: 396px;
+}
+
+.social-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 24px;
+
+}
+
+.section-input {
+    text-align: center;
+    /* margin-bottom: 20px; */
+    background-image: url('../Flower Asset/Rectangle 9');
+    /* background-repeat: no-repeat; */
+    border-radius: 8px;
+    background: url('../Flower\ Asset/background-image'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
 }
