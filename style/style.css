@@ -63,6 +63,27 @@
 
 .extra-marks {
     padding: 50px;
+    
+
+}
+.extra{
+    text-align: center;
+    background-color: #272727;
+    height: 200px;
+    width: 50vh;
+    align-items: center;
+    position: relative;
+    margin-left: 675px;
+    color: white;
+    box-shadow: #272727;
+}
+
+h3{
+    margin-top: 40px;
+}
+.other-shop{
+    text-align: center;
+    padding-top: 50px;
 
 }
 
